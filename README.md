@@ -1,2 +1,2 @@
-# quickstart_simple_python
+# Simple Python Script Quickstart
 A base repo for a simple python script
